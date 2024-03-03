@@ -32,7 +32,7 @@ const FrontendTable = () => {
           </tr>
           <tr>
             <td>Taller de programación #1</td>
-            <td>xxx</td>
+            <td>https://github.com/ktavilav/MyProyectReact</td>
           </tr>
         </tbody>
       </table>
