@@ -1,0 +1,43 @@
+/* Carousel.css */
+.carousel-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.card-image img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.card-info {
+  text-align: left;
+}
+
+.card-info h3 {
+  margin-bottom: 10px;
+}
+
+.card-info p {
+  margin-bottom: 15px;
+}
+
+.card-info button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card-info button:hover {
+  background-color: #0056b3;
+}
+
+.developer-name{
+  color: black;
+}

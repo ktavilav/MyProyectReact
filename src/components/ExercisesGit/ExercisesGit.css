@@ -1,0 +1,29 @@
+#customers {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: rgb(16, 15, 15); /* Cambiado a blanco */
+}
+
+#customers td, #customers th {
+    border: 1px solid #4CAF50; /* Cambiado a verde para el borde */
+    padding: 10px; /* Aumentado el espaciado interno */
+    text-align: center; /* Alineación centrada */
+    background-color: #f2f2f2; /* Cambiado a un gris más claro */
+}
+
+#customers tr:nth-child(even) {
+    background-color: #ddd; /* Cambiado a un gris más oscuro para filas pares */
+}
+
+#customers tr:hover {
+    background-color: #A2D9CE; /* Cambiado a un tono de verde claro al pasar el cursor */
+}
+
+#customers th {
+    padding-top: 15px; /* Aumentado el espaciado superior */
+    padding-bottom: 15px; /* Aumentado el espaciado inferior */
+    text-align: center; /* Alineación centrada */
+    background-color: #4CAF50; /* Cambiado a verde para el encabezado */
+    color: white; /* Cambiado a blanco */
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Brais Moure",
+    "area": "Informático freelance",
+    "bio": "Informático freelance emprendedor y amante de la tecnología...",
+    "social": "https://www.linkedin.com/in/braismoure/",
+    "image": "https://scontent-bog2-1.xx.fbcdn.net/v/t1.6435-9/80290601_2444519332455829_5578554496163774464_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c2f564&_nc_ohc=IX7EAJH_MVUAX8-tTbW&_nc_ht=scontent-bog2-1.xx&cb_e2o_trans=q&oh=00_AfDdifpOdQmwABFjS-jqKZjEz1MQSo7sO5yunxjIKkfMoQ&oe=6607FE35"
+  },
+  {
+    "name": "Víctor Robles",
+    "area": "Desarrollador web",
+    "bio": "Desarrollador web en una empresa y llevo inmerso en el mundo de la programación y la informática desde los 15 años. Le encanta programar y todo lo relacionado con Internet y las nuevas tecnologías...",
+    "social": "https://www.youtube.com/@VictorRoblesWEB",
+    "image": "https://i.ytimg.com/vi/ZVkr4EKc1SM/maxresdefault.jpg"
+  },
+  {
+    "name": "Luisina de Paula",
+    "area": "Ingeniera en Informática y Educadora",
+    "bio": "Nació en Oberá y tiene 30 años. Es ingeniera en Informática y le apasiona la enseñanza. A través de las ventajas que dan las tecnologías pudo unir sus dos amores y hoy logra llegar a miles de personas -sin limitaciones geográficas- por medio de su canal de Youtube 'TodoCode' en el que ya tiene cerca de 40.000 suscriptores y más de 250 videos cargados.",
+    "social": "https://www.youtube.com/todocode",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEeP7tvb2ij2PBcW8bo6Er2tmYmhDrnp_y4-eWXdKGfk2umoKdPLXaFMI3Z8s3stoAdeM&usqp=CAU"
+  }
+]
